@@ -1,0 +1,293 @@
+---
+name: Luminous Agency
+colors:
+  surface: '#faf8ff'
+  surface-dim: '#dad9e0'
+  surface-bright: '#faf8ff'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f4f3fa'
+  surface-container: '#eeedf4'
+  surface-container-high: '#e8e7ee'
+  surface-container-highest: '#e2e2e9'
+  on-surface: '#1a1b20'
+  on-surface-variant: '#464555'
+  inverse-surface: '#2f3035'
+  inverse-on-surface: '#f1f0f7'
+  outline: '#777587'
+  outline-variant: '#c7c4d8'
+  surface-tint: '#4f44e2'
+  primary: '#4d41df'
+  on-primary: '#ffffff'
+  primary-container: '#675df9'
+  on-primary-container: '#fffbff'
+  inverse-primary: '#c4c0ff'
+  secondary: '#5f5e64'
+  on-secondary: '#ffffff'
+  secondary-container: '#e4e1e9'
+  on-secondary-container: '#65636a'
+  tertiary: '#5b5a6b'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#747385'
+  on-tertiary-container: '#fffbff'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#e3dfff'
+  primary-fixed-dim: '#c4c0ff'
+  on-primary-fixed: '#100069'
+  on-primary-fixed-variant: '#3622ca'
+  secondary-fixed: '#e4e1e9'
+  secondary-fixed-dim: '#c8c5cd'
+  on-secondary-fixed: '#1b1b20'
+  on-secondary-fixed-variant: '#47464c'
+  tertiary-fixed: '#e3e0f5'
+  tertiary-fixed-dim: '#c7c4d8'
+  on-tertiary-fixed: '#1a1a29'
+  on-tertiary-fixed-variant: '#464556'
+  background: '#faf8ff'
+  on-background: '#1a1b20'
+  surface-variant: '#e2e2e9'
+typography:
+  display-xl:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 64px
+    fontWeight: '800'
+    lineHeight: 72px
+    letterSpacing: -0.03em
+  display-xl-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 40px
+    fontWeight: '800'
+    lineHeight: 48px
+    letterSpacing: -0.025em
+  display-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 48px
+    fontWeight: '800'
+    lineHeight: 56px
+    letterSpacing: -0.025em
+  display-lg-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 32px
+    fontWeight: '700'
+    lineHeight: 40px
+    letterSpacing: -0.02em
+  headline-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 36px
+    fontWeight: '700'
+    lineHeight: 44px
+    letterSpacing: -0.02em
+  headline-lg-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 28px
+    fontWeight: '700'
+    lineHeight: 36px
+    letterSpacing: -0.015em
+  headline-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 24px
+    fontWeight: '600'
+    lineHeight: 32px
+    letterSpacing: -0.015em
+  headline-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+    letterSpacing: -0.01em
+  body-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 18px
+    fontWeight: '400'
+    lineHeight: 28px
+    letterSpacing: -0.005em
+  body-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 24px
+    letterSpacing: 0em
+  body-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 20px
+    letterSpacing: 0em
+  label-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: 0.01em
+  label-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 12px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.02em
+  caption:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 12px
+    fontWeight: '500'
+    lineHeight: 16px
+    letterSpacing: 0.01em
+rounded:
+  sm: 0.5rem
+  DEFAULT: 1rem
+  md: 1.5rem
+  lg: 2rem
+  xl: 3rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-sm: 1rem
+  gutter-lg: 2rem
+  margin: 1.5rem
+  margin-sm: 1rem
+  margin-md: 2.5rem
+  margin-lg: 5rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+
+This design system embodies high-end creative agency prestige fused with modern technical precision. Crafted for a multidisciplinary creative designer and web developer, it projects authority, digital craftsmanship, and elevated taste. The experience balances intentional minimalism with vibrant, luminous accentp�%]��Y[���\�[HX�Y\�]X���[H�]Z[�[��X���]H�[��[ۘ[�\�]K������\��ۘ[]H	�[[�[ۘ[[�܂�H
+���\�[ۘ\�HY]ܛ�[�Y����ۙ�Y[�Y]ܚX[��\��][ۜ��X��Y�H[[XX�[]H��۝Y[�^X�][ۋ��H
+��[Z[��\�\����X[�Y�X�\�]H�[��\��X�\�\�X�[]Y�H�X�H�[�][X�Y[�����[��[�K[[�H�ܙ\�˂�H
+��Y]X�[�\��\�����[�\��\��Y�]]�H�X�KX�\�]�H\�ܘ\X���[K[��ZY�Y\�X�[ZXܛ�Z[�\�X�[ۜ�]��[][�X�]H�[XX�[]H[��[Z][HܘY�������\�Yۈ[ݙ[Y[��H�\���H�[�\�\�و
+���۝[\ܘ\�HY]ܚX[Z[�[X[\�J��[�
+���Y�[�Y�\��[ܜ\�J�����X�\�[^[�]��[Hۈ��X���X�\�[ܚY�^[��]�H��X][�����K[��\�\�\�ٝ�]H�ܙ\��[]�]Y�H����YY�\����][��^Y\��[����X]X�\�K][�Y\�������ܜ�H[]H\�X�\�\�[�[[YYX]HY�X�۝�\�[�[ZX��]�Y[�ܚ\�[Z[��\�Y��\��X�\�[�Y\�\���[[��ܜ�[�\��^�Y�HH�Yۘ]\�H[X��X��[�]�ܙK������[]H\��]X�\�B�H
+���[X\�H
+͐͌ё�
+N���[X��X�\�\ˈ\�Y��]Y�X�[H�܈�Yۘ]\�H�[X\�H�\�X�]�H�]\��^H]HY�Y��[����[ܘYY[���ˈ]]\��]�\�ݙ\��[HY]ܚX[�۝[���H
+���X�ۙ\�H
+���M
+N���؜�YX[�[�ˈH�Z[�[�\��[��܋[]�\�[���\�Y]ܚX[\�ܘ\KY\�۝�\�[�[��]�Y�][ۈ�\��[����\�ܛ�[�[�˂�H
+��\�X\�H
+�P�NQ�X
+N����ٝ�\�\�XK��X�H�[�܈[�\�X�]�H�X�ۙ\�H\��]�[�Y�H�۝Z[�\��[�ݙ\�[�[�˂�H
+���]]�[�[��\�
+ээ��
+N���\�HX\��[�[�K\�X�H[�Y�]H�\�H]�ٝ[���\�H[�[]�]\���Y�ё������\��[��ܚ\��ܙYܛ�[�[[Y[�˂������\[Y[�\�H��X�\�[ۙ\H
+��\���\��X�HX��[�
+�NN�
+N���[]�]Y\��[�H�۝Z[�\��\���\��\��X�\�[���H�����X��ܛ�[�˂�H
+��Y��ܙ\�
+�L�L�
+N���Y�[�\��X[���\ۙ[�\�[Y]\��[�ܚY[�\�[��[�\�Y�^[�]˂�H
+��\���ܙ\�
+̑L��X
+N����]Z[����X�\�[ܚ\��\��Y�Z[�����M[��NN��X������]�]�\�X[\���\�˂����\�ܘ\B��H\H�\�[H�[�\�^�\�^�\�]�[Hۈ
+��\��Z�\�H�[�ʊ�][^�[��]��[�Y]�X�Y]\��X�X�H[�]�^H��ۜ��X�H�X\�Y\�\��K������Y]ܚX[\�^HY\�\��B�XY[�\��[���X�H�]���^�KX���ZY��
+�[�
+HZ\�Y�]Y�ܙ\��]�H�Y�]]�H�X��[��
+L��[X�L��[X
+K�\���\�\��[ۈܙX]\�H�\���[X[�[��Y]ܚX[�[�Y]H�\�X�\�\�X�وXY[���ؘ[\�Yۈ�\�\˂�������H	�[�\��X�H^���H��HXZ[�Z[��H�[^Y[�KZZY��][�
+�K�x�$�K�MJH�]�]]�[]\��X�[���[��\�H�[X[�XYX�[]HXܛ���]Z[Y�\�H�YY\��ڙX����\�[���[Y[�][ۋ�[�\�X�]�HX�[�Y]Y]H�Y�\�[�Y]�X��[\�HY�\��^�\�
+L�8�$�M
+H�][]�]Y�[ZKX���ZY��
+�
+H[��Y��X��[��^[��[ۈ�܈[��[���[��[�˂����^[�]	��X�[��^[�]�����[�[�[�[ۘ[L�X��[[��\�ۜ�]�H�ZYܚY��[�Y�HHX^[][H�۝Z[�\��YوL��܈ܝ��[�����\�\�^[�[���M�܈[[Y\��]�HYYXH�[��\�\˂������\�ۜ�]�H��XZ��[��	�X\��[���ܙ\��[ۂ�H
+��[ؚ[H
+͎
+N���X��[[��\�[K��ܙY[�X\��[��\�H�]�\�[X
+X\��[�\�X
+K�]\��^�H�\�[X
+�]\�\�X
+K���\ۙ[���X���\�X�[H[���[]�Y�\�˂�H
+��X�]
+͎8�$�L�
+N���X��[[��\�[K��[��\�X\��[��Y[�����\�[X
+X\��[�[Y
+K�]\���K�\�[X
+�]\�
+K��\ܝ��]\[�H�]�Y]��[��X��[[��\�\��^\˂�H
+��\���
+�L�
+N���L�X��[[�\��]X�\�K��[��\�X\��[����[H�\�[X
+X\��[�[�
+H�]��[X�]\��
+�]\�[�
+K[���X�[��\�[[Y]�X�Y]ܚX[ٙ��]��X��H�ڙX�Y]Y]H��[[��[��YH\�^HYYXK�������]X[�]B�[��\�X��\ۙ[��X�[�������H��X��\�KNܚY�\�[K�\�H�X�K^�
+
+H[��X�K\�X
+
+H�܈�Y�HY[��[�X�ۋ]�[X�[�\���X�K[Y
+M�
+H�܈[�\�[܈�ܛH�۝��Y[����X�K[�
+�
+H�܈�\�[�\�[ܜ��[��X�K^
+
+H�[[�X]HX��\Y[�[\�������][��\��۝Z[�\�˂����[]�][ۈ	�\���\�X[Y\�\��H�Z�X���[�\�X��]ܙ^H���Y���][^�[��H��X�[�][ۈو���X]X��[�]][�YY��\�[ۋ�[�K[[�H�ܙ\��[�����Y�[��X�[��X����˂������\��X�H[]�][ۈ]�[H
+��ܛ�[�
+]�[
+N����]]�[ээ���X��ܛ�[��[��\ˈ�]�]��ۋY[]�]Y�\�K��H
+��[]�]Y�[��\�
+]�[JN�����Yё������\�^Y\����[YY�]H\�ܙ\�و�L�L���X�H[X�Y[�Y���L��ؘJMKMK��
+KM�M�ؘJLNK�MK��X��H
+����][��X��[��[�\�X�]�Hݙ\�
+]�[�N���[]�]Y[�\�X�]�H��\ۙ[��[�ݙ\�Y�\�K\�YH�\�ˈ�Y���^[�[�[ZX�[N�L�̜N�ؘJLNK�MK�M�KL�L��ؘJMKMK��
+X��H
+��ݙ\�^H	��]�Y�][ۈ
+]�[�N�������Y�\��[�[�
+�]�Y�][ۈ����[�[���][��X�[ۈ�\��K�][^�\��ؘJ�MK�MK�MK�
+X܈\���ؘJMKMK��
+X�]�X����Y�[\���\�M�
+X[�H\�X�[ۘ[�Y�Y��ܙ\�و�ؘJ�MK�MK�MK��X܈�ؘJ�MK�MK�MK�JX���������X]X�Y��YY�܈Y�Z[\X�\���ۙ\�[��X]\�Y����\�H][\�\��H�YX[ܘYY[��\��Y[�
+[�Y͐͌ё�]L	x�$�MIH�X�]K�\��Y]\�8�$�L�
+H�]�Z[��\���ZY[[�][��\�X��Y[�[X�Y[��X��Y��˂�����\\�H\�Yۈ�\�[H[\�\�[�ܙ�[�X�Y�X�\��]\�H�\H[��XY�H]�ٝ[��X��X�[^[�]�[��Z[��ܘ�\��ZYY�[��H[�\��]K�������\��]\�HY\�\��B�H
+���[X\�H�\��	��۝Z[�\��
+��[�YL����[�YL�
+N���X]�Hܝ��[��۝Z[�\���ڙX�����\�\�[��X]\�H�X�[ۜ�\�HK�\�[X
+�
+H���[X
+̜
+H�YZH�X�Y]�HH�ٝ[�\���\�[�][ۋ��H
+��[�\�X�]�H�۝���	�[�][[Y[��
+��[�Y^
+N����ܛH[�]����ۈ�۝Z[�\��[��X�ۙ\�H��\��]H��Y�ܝX�H]��\�[X
+L�
+H�\�[X
+M�
+K��H
+��[�	��\�
+��[�YY�[
+N����]ۜ��]\�Y���]Y�ܞH�Y�\�[�X�ۈ��][^�H��\]H[��[��\��
+NNN\
+K[]�\�[��HX�[H�۝�\�Y�Z[����Y\[���۝Z[�\��ܛ�\�˂������\ۙ[������]ۜ�	�[�\�X�]�H�۝��H
+���[X\�H�N����[H��[�Y[
+NNN\
+H�X]\�[��H�X��ܛ�[��[و͐͌ё�Y�X�۝�\��]H^
+ё�����
+Kܚ^�۝[Y[��وK��\�[X[��\�X�[Y[��و��\�[X�ݙ\��Y��\��H�[��]VHوL�X���\[�YY�HH�ۘ�[��]Y�[�]���
+��ؘJLNK�MK��JX
+K�X�]�H�]H\Y\�H��[H�[�ٛܛH
+�N
+K��H
+���X�ۙ\�H
+\���۝�\�
+N�����Y���M�X��ܛ�[��]\�H�]H^\�ܙ\�و̑L��X�[��][ۚ[���͐͌ё�^ۈݙ\���H
+�������][�N����[��\�[��ܙH[��[�Y�HH\�L�L��ܙ\��ݙ\��[��][ۜ���P�NQ�X�X��ܛ�[�[�͐͌ё��ܙ\��������Y�\�	�[�\H
+���]Y�ܞH	���[Y�Ί��[\�\Y�Y�\��[��[��X�[\�X\�ܘ\H�]�\�X�[Y[��و��\�[X[�ܚ^�۝[Y[��و��\�[X��[�\��]H\�\��P�NQ�X�\��X�H�]͐͌ё���K�\���\�X[��][^�H�NN��\��X�K�P�NQ�X��K[�H\�ܙ\�و̑L��X��H
+���]\�[�X�]ܜΊ��[��Y\�[�[��]�[�[���
+[Y\�[ܙY[��܈�]�Z[X�H�܈�ڙX�ȋ�[�]�܈�[���ܙ\�ȊK������ܝ��[�	��\�H�YH�\�H
+���ۜ��X�[ێ���ܚ\�ё������\��X�\�ܘ\Y[�K�\�[X���[X�ܙ\��YZK��[��HH\�L�L��ܙ\���H
+��ܘYY[�X��[��ܙ\�Ί���[X�Y�[ZY\��ڙX��\��\�HH����ܙ\�Z[XY�X[�X\�ܘYY[��[��][ۚ[�����H͐͌ё���Y���P�NQ�X[��[��\�[��[�\�][��[�\�[[Y]�X�Y�H�X[K��H
+��[�\�X�[ۜΊ��[XY�H\��]�[��YH�\����[H
+��[KLLX
+H�[��H�XH�X�X�X�^�Y\��[��][ۜ�
+�[��][ێ��[�ٛܛH���X�X�X�^�Y\��M�K��JX
+Hۈ�\�ݙ\��[H�\��۝Z[�\��Y��]]�[�[]�][ۋ������X�ۈ�۝Z[�\�H�[�Y]�X��\��\�܈�]Z\��[\���
+��[�YL�
+H�^�Y��X�H]0��܈M�0��M����\��Y�][��P�NQ�X�[�\�[��H͐͌ё�X�ۈ�]H[�Y�ܛH�����H�ZY��������ܛH[�]�	��Y[H[��]�][�ё������]H\�L�L��ܙ\�[���\�[X�ܛ�\��Y]\ˈ���\�Y�]\�[[Z[�]H\�������\��][�\�\Z[��H\�X�K�\�ܙ\�و͐͌ё��X��Y�HH�ٝ����[��
+��\�Y�Έ�ؘJLNK�MK�MJX
+K�������[X�[ۈ�۝���
+�X�؛�\�	��Y[��B�H�\��H��[�Y��\�
+�Y[���[H�\�X�[
+H�^�Y]�0����[�X�]�N�K�\�L�L��ܙ\���X��Y�͐͌ё��X��ܛ�[��[\�^Z[��[�[��]ܚ\��]H�X��X\��܈�[�\�Y�Y[��
