@@ -47,13 +47,25 @@ export const CaseStudyModal: React.FC<CaseStudyModalProps> = ({
           <X className="w-6 h-6" />
         </button>
 
-        {/* Clean Image Showcase - No text over the image */}
-        <div className="relative w-full max-h-[85vh] flex items-center justify-center overflow-hidden rounded-2xl shadow-2xl bg-black/50 border border-white/10">
-          <img
-            src={project.image || ""}
-            alt={project.title}
-            className="w-auto h-auto max-h-[85vh] max-w-full object-contain rounded-xl select-none"
-          />
+        {/* Clean Media Showcase - Video Player or High-Res Image (No text over media) */}
+        <div className="relative w-full max-h-[85vh] flex items-center justify-center overflow-hidden rounded-2xl shadow-2xl bg-black/60 border border-white/10">
+          {project.videoUrl ? (
+            <video
+              src={project.videoUrl}
+              controls
+              autoPlay
+              playsInline
+              className="w-auto h-auto max-h-[85vh] max-w-full rounded-xl shadow-2xl bg-black"
+            >
+              Your browser does not support the video tag.
+            </video>
+          ) : (
+            <img
+              src={project.image || ""}
+              alt={project.title}
+              className="w-auto h-auto max-h-[85vh] max-w-full object-contain rounded-xl select-none"
+            />
+          )}
         </div>
       </div>
     </div>

@@ -304,7 +304,7 @@ export const ServicesPage: React.FC<ServicesPageProps> = ({ onNavigate, onSelect
 
                 <div>
                   <h2 className="text-2xl font-bold text-[#0f172a] mb-1">
-                    Social Media &amp; Marketing Posts
+                    AI Marketing Images
                   </h2>
                   <p className="text-sm text-[#475569] leading-relaxed">
                     Visually magnetic promotional graphics that stop the scroll, strengthen brand authority, and boost engagement.
@@ -342,7 +342,7 @@ export const ServicesPage: React.FC<ServicesPageProps> = ({ onNavigate, onSelect
 
               <div className="pt-6 mt-4">
                 <button
-                  onClick={() => handleDiscuss('Social Media & Marketing Posts')}
+                  onClick={() => handleDiscuss('AI Marketing Images')}
                   className="inline-flex items-center justify-between w-full bg-[#f5f3ff] hover:bg-[#7c3aed] hover:text-white text-[#0f172a] text-sm font-semibold px-6 py-3 rounded-full transition-all duration-200 group/btn cursor-pointer"
                 >
                   <span>Discuss Your Project</span>

@@ -346,7 +346,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onOpenCaseStudy 
                   <Sparkles className="w-7 h-7" />
                 </div>
                 <h3 className="text-xl font-bold text-[#0f172a] mb-2 group-hover:text-[#7c3aed] transition-colors">
-                  AI Image &amp; Social Posts
+                  AI Marketing Images
                 </h3>
                 <p className="text-sm text-[#475569] leading-relaxed mb-6">
                   Eye-catching marketing creatives, carousel decks, branded banners, and AI-assisted visual art calibrated for maximum feed engagement.

@@ -14,6 +14,19 @@ export default function App() {
   const [activePage, setActivePage] = useState<string>('home');
   const [selectedCaseStudy, setSelectedCaseStudy] = useState<ProjectItem | null>(null);
   const [selectedServiceForContact, setSelectedServiceForContact] = useState<string>('webdev');
+  const [isDarkMode, setIsDarkMode] = useState<boolean>(() => {
+    const saved = localStorage.getItem('sailesh_theme');
+    return saved ? saved === 'dark' : true; // Default to TRUE (Obsidian Luxury Dark)
+  });
+
+  useEffect(() => {
+    localStorage.setItem('sailesh_theme', isDarkMode ? 'dark' : 'light');
+    if (isDarkMode) {
+      document.documentElement.classList.add('dark');
+    } else {
+      document.documentElement.classList.remove('dark');
+    }
+  }, [isDarkMode]);
 
   // Handle URL hash changes for deep linking
   useEffect(() => {
@@ -61,11 +74,13 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#faf5ff] text-[#0f172a] font-sans flex flex-col selection:bg-[#ede9fe] selection:text-[#581c87]">
-      {/* Fixed Navigation Header */}
+    <div className="min-h-screen bg-[#faf5ff] dark:bg-[#090714] text-[#0f172a] dark:text-[#f8fafc] font-sans flex flex-col selection:bg-[#ede9fe] dark:selection:bg-[#7c3aed] selection:text-[#581c87] dark:selection:text-white transition-colors duration-300">
+      {/* Fixed Navigation Header with Theme Switcher */}
       <Header
         activePage={activePage}
         onNavigate={handleNavigate}
+        isDarkMode={isDarkMode}
+        onToggleTheme={() => setIsDarkMode((prev) => !prev)}
       />
 
       {/* Main Page Viewport with Page Transition Animation */}

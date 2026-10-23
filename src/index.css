@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
   --color-surface: #faf5ff;
   --color-surface-dim: #dad9e0;
@@ -340,4 +342,69 @@
 
 .animate-marquee:hover {
   animation-play-state: paused;
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
+html.dark body {
+  background-color: #090714;
+  color: #f8fafc;
+}
+
+/* Luxury Dark Mode Global Theme Enhancements */
+html.dark .bg-white {
+  background-color: #120f29 !important;
+}
+
+html.dark .bg-\[\#ffffff\] {
+  background-color: #120f29 !important;
+}
+
+html.dark .bg-\[\#faf5ff\] {
+  background-color: #090714 !important;
+}
+
+html.dark .bg-\[\#f5f3ff\] {
+  background-color: #191438 !important;
+}
+
+html.dark .bg-\[\#ede9fe\] {
+  background-color: #271f54 !important;
+}
+
+html.dark .border-\[\#f1f5f9\],
+html.dark .border-\[\#ede9fe\],
+html.dark .border-\[\#e2e8f0\],
+html.dark .border-\[\#e2e2e9\] {
+  border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+html.dark .text-\[\#0f172a\] {
+  color: #ffffff !important;
+}
+
+html.dark .text-\[\#475569\] {
+  color: #cbd5e1 !important;
+}
+
+html.dark .text-\[\#5f5e64\] {
+  color: #94a3b8 !important;
+}
+
+html.dark .text-\[\#581c87\] {
+  color: #e9d5ff !important;
+}
+
+html.dark input,
+html.dark textarea,
+html.dark select {
+  background-color: #181338 !important;
+  color: #ffffff !important;
+  border-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
 }

@@ -68,19 +68,19 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate }) => {
                   <div className="relative z-10 flex flex-col items-center gap-3">
                     <div className="w-24 h-24 rounded-3xl bg-gradient-to-tr from-[#7c3aed] to-[#a855f7] p-[2px] shadow-[0_0_30px_rgba(124,58,237,0.5)]">
                       <div className="w-full h-full rounded-[22px] bg-[#141226] flex items-center justify-center p-3">
-                        <img src="/assets/logo.png" alt="SD Logo" className="w-full h-auto object-contain" />
+                        <img src="/assets/logo-icon.png" alt="SD Logo" className="w-full h-full object-contain filter drop-shadow-[0_0_12px_rgba(168,85,247,0.6)]" />
                       </div>
                     </div>
 
                     <div className="flex items-center gap-2 px-3 py-1 bg-white/10 backdrop-blur-md rounded-full border border-white/15">
                       <Code className="w-3.5 h-3.5 text-[#c084fc]" />
-                      <span className="text-xs font-mono text-white/90">&lt;Sailesh.dev /&gt;</span>
+                      <span className="text-xs font-mono text-white/90">&lt;Sailesh.designs /&gt;</span>
                     </div>
 
                     <div className="flex items-center gap-2 mt-2">
-                      <span className="text-[10px] font-mono text-white/60 bg-white/5 px-2 py-0.5 rounded">UI/UX</span>
-                      <span className="text-[10px] font-mono text-white/60 bg-white/5 px-2 py-0.5 rounded">HTML5/CSS3</span>
-                      <span className="text-[10px] font-mono text-white/60 bg-white/5 px-2 py-0.5 rounded">Bootstrap 5</span>
+                      <span className="text-[10px] font-mono text-white/70 bg-white/10 px-2 py-0.5 rounded">Graphic Design</span>
+                      <span className="text-[10px] font-mono text-white/70 bg-white/10 px-2 py-0.5 rounded">Social Media</span>
+                      <span className="text-[10px] font-mono text-white/70 bg-white/10 px-2 py-0.5 rounded">AI &amp; Motion</span>
                     </div>
                   </div>
                 </div>
